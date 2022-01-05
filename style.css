@@ -67,10 +67,21 @@ h3 {
 }
 
 .item {
-    background-color: rgba(144, 199, 199, 0.199);
     border-radius: 20px;
     margin: 10px;
     padding-left: 5PX;
+}
+
+#item1 {
+    background-color: rgba(144, 199, 199, 0.199);
+}
+
+#item2 {
+    background-color: rgba(91, 97, 172, 0.199);
+}
+
+#item3 {
+    background-color: rgba(116, 53, 79, 0.267);
 }
 
 .thirty-width {
